@@ -1,0 +1,21 @@
+information_set,model,loss,DM,p,favours
+NEPSE + global factors,ET,squared,0.6812,0.4959,NEPSE + global factors
+NEPSE + global factors,ET,absolute,-0.0272,0.9783,NEPSE only
+NEPSE + global factors (PLS),ET,squared,0.5218,0.602,NEPSE + global factors (PLS)
+NEPSE + global factors (PLS),ET,absolute,-0.1565,0.8757,NEPSE only
+Global factors only,ET,squared,-1.4964,0.135,NEPSE only
+Global factors only,ET,absolute,-1.1875,0.2354,NEPSE only
+Foreign only,ET,squared,-1.3255,0.1854,NEPSE only
+Foreign only,ET,absolute,-0.7129,0.4761,NEPSE only
+Combined,ET,squared,0.5348,0.5929,Combined
+Combined,ET,absolute,1.3924,0.1642,Combined
+NEPSE + global factors,GBR,squared,0.277,0.7819,NEPSE + global factors
+NEPSE + global factors,GBR,absolute,-0.4156,0.6778,NEPSE only
+NEPSE + global factors (PLS),GBR,squared,-1.3431,0.1797,NEPSE only
+NEPSE + global factors (PLS),GBR,absolute,-2.6697,0.0078,NEPSE only
+Global factors only,GBR,squared,-0.7392,0.4601,NEPSE only
+Global factors only,GBR,absolute,-1.7536,0.0799,NEPSE only
+Foreign only,GBR,squared,-0.4948,0.6209,NEPSE only
+Foreign only,GBR,absolute,-0.9629,0.3359,NEPSE only
+Combined,GBR,squared,-0.256,0.798,NEPSE only
+Combined,GBR,absolute,-1.014,0.3109,NEPSE only

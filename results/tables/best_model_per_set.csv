@@ -1,0 +1,7 @@
+,best_model,RMSE_bps,best_DirAcc_any_model,lift_vs_NEPSE_%,vs_zero_%,DM_p_vs_NEPSE_ET
+NEPSE only,ET,121.023,0.603,0.0,1.419,
+NEPSE + global factors,ET,120.786,0.592,0.195,1.611,0.496
+NEPSE + global factors (PLS),ET,120.778,0.57,0.202,1.618,0.602
+Global factors only,ET,122.968,0.525,-1.607,-0.166,0.135
+Foreign only,ET,122.675,0.525,-1.365,0.073,0.185
+Combined,ET,120.595,0.572,0.354,1.767,0.593
